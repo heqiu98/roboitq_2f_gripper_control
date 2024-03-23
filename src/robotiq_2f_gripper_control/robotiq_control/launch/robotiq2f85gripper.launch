@@ -1,0 +1,10 @@
+<launch>
+    <!-- Launch the Robotiq2FGripperRtuNode -->
+    <node pkg="robotiq_2f_gripper_control" type="Robotiq2FGripperRtuNode.py" name="robotiq_2f_gripper_node" output="screen">
+        
+    </node>
+
+    <!-- Launch the robotiq_control_node -->
+    <!--node pkg="robotiq_control" type="robotiq_control_node" name="robotiq_control_node" output="screen"/-->
+</launch>
+

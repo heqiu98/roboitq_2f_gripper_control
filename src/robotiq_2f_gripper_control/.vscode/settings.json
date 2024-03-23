@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/heqiu/test_pkg/devel/lib/python3/dist-packages",
+        "/home/heqiu/2dpbvs/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/heqiu/test_pkg/devel/lib/python3/dist-packages",
+        "/home/heqiu/2dpbvs/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

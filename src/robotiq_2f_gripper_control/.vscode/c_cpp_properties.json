@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/heqiu/test_pkg/devel/include/**",
+        "/home/heqiu/2dpbvs/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/heqiu/2dpbvs/src/CylinderTag/include/**",
+        "/home/heqiu/2dpbvs/src/apriltag_ros/apriltag_ros/include/**",
+        "/home/heqiu/2dpbvs/src/calculate_joint_vel/include/**",
+        "/home/heqiu/2dpbvs/src/cylinder_tag/include/**",
+        "/home/heqiu/2dpbvs/src/ddynamic_reconfigure-kinetic-devel/include/**",
+        "/home/heqiu/2dpbvs/src/realsense-ros/realsense2_camera/include/**",
+        "/home/heqiu/test_pkg/src/robotiq_2f_gripper_control/robotiq/robotiq_2f_gripper_action_server/include/**",
+        "/home/heqiu/test_pkg/src/robotiq_2f_gripper_control/robotiq/robotiq_2f_gripper_control/include/**",
+        "/home/heqiu/test_pkg/src/robotiq_2f_gripper_control/robotiq/robotiq_3f_gripper_articulated_gazebo_plugins/include/**",
+        "/home/heqiu/test_pkg/src/robotiq_2f_gripper_control/robotiq/robotiq_3f_gripper_control/include/**",
+        "/home/heqiu/test_pkg/src/robotiq_2f_gripper_control/robotiq_control/include/**",
+        "/home/heqiu/test_pkg/src/robotiq_2f_gripper_control/robotiq/robotiq_ethercat/include/**",
+        "/home/heqiu/test_pkg/src/robotiq_2f_gripper_control/robotiq/robotiq_ft_sensor/include/**",
+        "/home/heqiu/2dpbvs/src/Universal_Robots_ROS_Driver-2.1.1/ur_calibration/include/**",
+        "/home/heqiu/2dpbvs/src/Universal_Robots_ROS_Driver-2.1.1/ur_robot_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
