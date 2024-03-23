@@ -1,10 +1,3 @@
 # roboitq_2f_gripper_control
 
-
-
-
-
-1231321321
-
-
-
+create a node to control the robotiq_2f_gripper
